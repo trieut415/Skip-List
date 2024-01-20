@@ -10,7 +10,7 @@
 #include <stdlib.h>
 
 using namespace std;
-
+ 
 template<class T>
 class Node {
 public:
